@@ -5,3 +5,12 @@
 .centered {
   text-align: center;
 }
+
+
+h2{
+  font-family: 'Rubik', sans-serif;
+  font-weight: lighter;
+  font-size: 32px;
+  background-color: red;
+  color: white;
+}
